@@ -1,0 +1,1 @@
+const languages={en:{title:'OA-GUARD'},ta:{title:'ஓஏ-கார்டு'}};
